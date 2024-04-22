@@ -1,0 +1,84 @@
+# Copyright (C) 2019 rocketgenius
+# This file is distributed under the same license as the Gravity Forms Gutenberg Add-On (Experimental) plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Gravity Forms Gutenberg Add-On (Experimental) 1.0-rc-1.4\n"
+"Report-Msgid-Bugs-To: https://gravityforms.com/support\n"
+"Last-Translator: Gravity Forms <support@gravityforms.com>\n"
+"Language-Team: Gravity Forms <support@gravityforms.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-09-17T14:35:42+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.2.0\n"
+"X-Domain: gravityformsgutenberg\n"
+
+#. Plugin Name of the plugin
+msgid "Gravity Forms Gutenberg Add-On (Experimental)"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://www.gravityforms.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "Adds a Gravity Forms block to the Gutenberg post editor."
+msgstr ""
+
+#. Author of the plugin
+msgid "rocketgenius"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.rocketgenius.com"
+msgstr ""
+
+#: js/core.js:168
+msgid "Select a Form"
+msgstr ""
+
+#: js/core.js:209
+msgid "Form Settings"
+msgstr ""
+
+#: js/core.js:212
+msgid "Form"
+msgstr ""
+
+#: js/core.js:218
+msgid "Form Title"
+msgstr ""
+
+#: js/core.js:223
+msgid "Form Description"
+msgstr ""
+
+#: js/core.js:231
+#: js/core.js:235
+msgid "Conditional Logic"
+msgstr ""
+
+#: js/core.js:248
+msgid "Advanced"
+msgstr ""
+
+#: js/core.js:253
+msgid "Preview"
+msgstr ""
+
+#: js/core.js:258
+msgid "AJAX"
+msgstr ""
+
+#: js/core.js:263
+msgid "Tabindex"
+msgstr ""
+
+#: js/core.js:384
+msgid "Form (Experimental)"
+msgstr ""
+
+#: js/core.js:385
+msgid "Select a form below to add it to your page."
+msgstr ""
